@@ -2,11 +2,7 @@
 <!-- date: 2021-09-03 14:00:00 -->
 <!-- username: newspicel -->
 <!-- category: security -->
-
-Eine kleine Analyse meinerseits über die Hyped App von Trymacs, Rewinside und UnsypmatischTV.
-
-<!-- pagebreak -->
-
+<!-- description: Eine kleine Analyse meinerseits über die Hyped App von Trymacs, Rewinside und UnsypmatischTV. -->
 <pre>Der Beitrag ist schon was älter, deswegen können gewissen Informationen veraltet sein. <br>Insgesamt hat sich die ganze Thematik zwischen dem 11.7.2021 und dem 18.7.2021 abgespielt.<br>Dieser Beitrag ist auch kein normaler Security Blog Artikel.</pre>
 <h1>Hyped-App - Wo fange ich da an?</h1>
 <p>Diese Frage ist meiner Meinung nach sehr berechtigt zu stellen, da es bei dieser App einiges an Kritik gibt und damit meine ich gar nicht nur den Teil der Informatik.</p>
