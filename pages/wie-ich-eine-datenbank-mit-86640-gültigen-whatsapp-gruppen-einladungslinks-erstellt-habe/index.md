@@ -1,3 +1,10 @@
+# Wie ich eine Datenbank mit 86640 gültigen WhatsApp Gruppen Einladungslinks erstellt habe.
+
+<!-- date: 2021-5-31 15:00:00 -->
+
+
+<!-- pagebreak -->
+
 <p>Willkommen zu meinem ersten Beitrag, in diesem Beitrag gehe ich darauf ein wie einfach es ist selbiges zu tun. Und wie man so an Hundert Tausende gültige Nummern kommen könnte. Und wie man das theoretisch auch mit anderen Diensten wie Discord anfangen könnte.</p>
 <h2>Wie ich auf diese Idee kam:</h2>
 <p>Auf die Idee kam ich schon vor längerem. Lass es fast zwei Jahre her sein, nur ich habe mir nie die Zeit genommen das schnell auf zusetzten. Auf jeden fall bin ich vor kurzem wieder auf das Projekt gestoßen und habe mir überlegt das ich es jetzt einfach Anfange. Man muss dazu sagen: Es war nicht besonders aufwendig, ich war nach ein paar Stunden fertig. </p>
