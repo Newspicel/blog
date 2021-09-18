@@ -1,6 +1,6 @@
 # Warum dieser Blog so Inaktiv ist...
 
-<!-- date: 2021-9-1 5:00:00 -->
+<!-- date: 2021-09-01 5:00:00 -->
 
 
 <!-- pagebreak -->

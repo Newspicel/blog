@@ -1,5 +1,5 @@
 # Hyped-App: Die wohl komischste 100.000 Euro App
-<!-- date: 2021-9-3 14:02:00 -->
+<!-- date: 2021-09-03 14:00:00 -->
 
 Eine kleine Analyse meinerseits über die Hyped App von Trymacs, Rewinside und UnsypmatischTV.
 
