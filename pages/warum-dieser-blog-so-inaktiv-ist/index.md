@@ -1,6 +1,5 @@
 # Warum dieser Blog so Inaktiv ist...
 <!-- date: 2021-09-01 15:00:00 -->
-<!-- username: newspicel -->
 <!-- category: me -->
 <!-- description: Von mir beschrieben, wieso ich in den letzten Monaten nichts geschrieben habe. -->
 <p>Mal ein kleiner Beitrag wieso dieser Blog so inaktiv ist. </p>
