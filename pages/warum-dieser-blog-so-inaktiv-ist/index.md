@@ -1,6 +1,8 @@
 # Warum dieser Blog so Inaktiv ist...
 
 <!-- date: 2021-09-01 15:00:00 -->
+<!-- username: newspicel -->
+<!-- category: me -->
 
 
 <!-- pagebreak -->
