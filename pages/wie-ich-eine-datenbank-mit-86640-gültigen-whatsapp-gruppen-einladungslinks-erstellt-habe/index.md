@@ -2,7 +2,7 @@
 
 <!-- date: 2021-05-30 14:00:00 -->
 <!-- username: newspicel -->
-<!-- category: data-science -->
+<!-- category: data science -->
 
 <!-- pagebreak -->
 
