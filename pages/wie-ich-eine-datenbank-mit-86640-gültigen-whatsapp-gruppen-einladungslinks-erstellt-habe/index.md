@@ -1,7 +1,6 @@
 # Wie ich eine Datenbank mit 86640 gültigen WhatsApp Gruppen Einladungslinks erstellt habe.
 
-<!-- date: 2021-05-31 15:00:00 -->
-
+<!-- date: 2021-05-30 14:00:00 -->
 
 <!-- pagebreak -->
 

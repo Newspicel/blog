@@ -1,5 +1,5 @@
 # Oracle JDK ist nun kostenlos
-<!-- date: 2021-09-18 5:00:00 -->
+<!-- date: 2021-09-18 05:00:00 -->
 
 <!-- pagebreak -->
 
