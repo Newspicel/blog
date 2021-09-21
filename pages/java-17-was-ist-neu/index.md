@@ -17,7 +17,7 @@ Um kurz auch mal über Pattern Matching für Switch und Sealed Classes zu reden:
 
 #### Pattern Matching:
 
-Es gibt jetzt mehr möglichkeiten Switch zu benutzen, statt if-else. Hier sind ein paar Bespiele:
+Es gibt jetzt mehr Möglichkeiten Switch zu benutzen, statt if-else. Hier sind ein paar Beispiele:
 
 ```java
 static void testTriangle(Shape s) {
@@ -62,10 +62,10 @@ public abstract sealed class Shape
 * [Pattern Matching for instanceof](https://openjdk.java.net/jeps/305)
 * [Switch Expressions](https://openjdk.java.net/jeps/361)
 
-Das finde, ich sind die wichtigsten und größten Änderungen.
+Ich finde, das sind die wichtigsten und größten Änderungen.
 
 ### Um auch mal kurz auf die nächste Java Version zu sprechen zu kommen.
-In Java 18 ist das wichtigste was geplannt ist, das [UTF-8 dann Standart](https://openjdk.java.net/jeps/400) wird. 
+Die wichtigste Änderung für Java 18 wird die [Standardisierung von UTF-8](https://openjdk.java.net/jeps/400).
 
 Und dann mal sehen was noch so kommt.
 
