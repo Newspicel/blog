@@ -18,11 +18,13 @@ Das erste Programm was ich dazu geschrieben habe ist der Downloader. Dieser läd
 
 Beim zweiten Programm habe ich mir vorher etwas Kopfschmerzen gemacht, am Ende war es aber deutlich einfach als ich gedacht hätte. Wie funktioniert mein Programm nun: Ich stelle eine Anfrage an chat.whatsapp.com/<KEY> und frage ganz simple ab ob der Name vorhanden ist und wen ja, speichere ich den Key mit dem Namen in einer neuen Tabelle in meiner Datenbank. Das macht WhatsApp mir hier echt einfach, da ich nicht mal über Proxys oder sonstiges gehen musste, da diese Webseite von WhatsApp meines Wissenstandes kein Limit hat, da ich am Ende bei ungefähr 150-200 Anfragen pro Sekunde war. 
 
-Ungültiger WhatsApp Invite Link: ![](https://i.newspicel.dev/data/B8taGHXNK419xcYRZ9TsBCoc3MiHz7Qz.png)
+Ungültiger WhatsApp Invite Link: 
+
+<p><img src="https://i.newspicel.dev/data/B8taGHXNK419xcYRZ9TsBCoc3MiHz7Qz.png" width="680" height="324" alt=""></p>
 
 Gültiger WhatsApp Invite Link:
 
-![](https://i.newspicel.dev/data/TB8kR7Ip2DN8l73AvbPc2Yg3cuDX7cRq.png)
+<p><img src="https://i.newspicel.dev/data/TB8kR7Ip2DN8l73AvbPc2Yg3cuDX7cRq.png" width="698" height="350" alt=""></p>
 
 ## Noch ein paar andere Infos:
 

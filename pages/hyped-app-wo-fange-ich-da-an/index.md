@@ -42,7 +42,7 @@ Ohne Rate Limit ist natürlich auch das Spamming von ihren Mail Servern möglich
 
 Ich haben diese Fehler gemeldet, haben jedoch auf unsere E-Mails nie Antworten bekommen (bis heute den 3.9.2021 nicht) und auf Instagram wurden ich nach Anfragen blockiert. Danach habe ich mich entschieden auf eine andere Weise zu kommunizieren (Haben es übrigens auch über Unterschiedliche Discord Server probiert.).
 
-![](https://i.newspicel.dev/data/ZaMHFgGCk8wl3scTHq6knCOegJGhbyzY.png)
+<p><img src="https://i.newspicel.dev/data/ZaMHFgGCk8wl3scTHq6knCOegJGhbyzY.png" width="215" height="424" alt=""></p>
 
 #### Wie wurden die Fehler nun behoben?
 
@@ -72,11 +72,11 @@ Die App ist insgesamt nicht gut angekommen, da sie keinen Inhalt besitzt. Und di
 
 Nun ist die App tot, ich habe zwar keine genauen Zahlen, aber alles was ich erfahren habe ist, dass die App fast keiner mehr wirklich benutzt.
 
-Es soll übrigens in ferner Zukunft ein Update kommen was die App tausendmal besser machen soll. <span style="color: #222222; font-family: 'Open Sans', Arial, sans-serif; font-size: 17px;">Ob das stimmt, wage ich zu bezweifeln.</span> 
+Es soll übrigens in ferner Zukunft ein Update kommen was die App tausendmal besser machen soll. Ob das stimmt, wage ich zu bezweifeln.
 
 Wen man gebannt wird, wird das immer händisch gemacht und wohl auch immer von anderen Personen. Habe die unterschiedlichsten Banngründe bekommen.
 
-![](https://i.newspicel.dev/data/NEfwsXbjG6sG2dLU60PIlBMtZp0P715Z.png)
+<p><img src="https://i.newspicel.dev/data/NEfwsXbjG6sG2dLU60PIlBMtZp0P715Z.png" width="338" height="289" alt=""></p>
 
 Und noch ein kurzer Exkurs zu den AGB der App. Alle Mitglieder müssen 18 sein. Ich bin ehrlich, das ist bei der Community schwierig (§ 2.1). Und was bei einer Beichten-App auch schwierig ist: Die Nutzer sind verpflichtet, bei der Registrierung ihren Klarnamen anzugeben und auf Pseudonyme zu verzichten. Also anonyme Beichten mit Klarnamen, das ist mal was ganz Neues. Also wenigstens doch eine neue Erfindung in der App.  
 
