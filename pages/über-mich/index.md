@@ -1,23 +1,25 @@
 # Über Mich
 <!-- type: static -->
 <!-- date: 1970-01-01 01:00:00 -->
-Hallo und Willkommen auf meinem Blog, mein Name ist Julian und ich bin 17 Jahre alt. Seit 2015 treibe ich mich jetzt mit allem rund ums programmieren rum. Aktuell besuche ich die Q1 eines Gymnasiums in der Nähe von Köln.
+Hallo und Willkommen auf meinem Blog, mein Name ist Julian Haag und ich bin 17 Jahre alt. Seit 2015 treibe ich mich jetzt mit allem rund ums programmieren rum.
 
-Neben der Schule beschäftige ich mich mit:
+Ich beschäftige mit den folgenden Themen und Softwares:
 
 *   Java Entwicklung (Minecraft, Spring, etc.)
+*   Roblox Entwicklung (Lua, Luau)
 *   Web Entwicklung (Js, Ts, Nodejs, Vue, Angular)
 *   Python Entwicklung
-*   Roblox Entwicklung (Lua, Luau)
 *   IT-Sicherheit
 *   Docker, Kubernetes
 *   Systemadministration
 *   IT-Projektmanagement
 
-Zusätzlich bin ich gerade am Rust & GO lernen.
+Aktuell bin ich auch in der Gründung meiner eigenen Firma ein Gamestudios.
 
-Genaueres kannst du hier sehen: [Github](https://github.com/newspicel)
+Zusätzlich bin ich gerade am Rust & Go lernen.
 
 In diesem Blog möchte ich euch Erfahrungswerte aus den Bereichen, mit den ich mit täglich beschäftige, näher bringen und erklären.
+
+Mein Github Profil: [Newspicel](https://github.com/newspicel)
 
 Bei Fragen könnt ihr mich immer auf Twitter erreichen: [@Newspicel](https://twiter.com/newspicel).
