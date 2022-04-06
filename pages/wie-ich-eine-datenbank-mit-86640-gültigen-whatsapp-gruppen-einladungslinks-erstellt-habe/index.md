@@ -20,11 +20,11 @@ Beim zweiten Programm habe ich mir vorher etwas Kopfschmerzen gemacht, am Ende w
 
 Ungültiger WhatsApp Invite Link: 
 
-<p><img src="https://i.newspicel.dev/data/B8taGHXNK419xcYRZ9TsBCoc3MiHz7Qz.png" width="680" height="324" alt=""></p>
+<p><img src="https://raw.githubusercontent.com/Newspicel/blog/main/pages/wie-ich-eine-datenbank-mit-86640-g%C3%BCltigen-whatsapp-gruppen-einladungslinks-erstellt-habe/image_1.png" width="680" height="324" alt=""></p>
 
 Gültiger WhatsApp Invite Link:
 
-<p><img src="https://i.newspicel.dev/data/TB8kR7Ip2DN8l73AvbPc2Yg3cuDX7cRq.png" width="698" height="350" alt=""></p>
+<p><img src="https://raw.githubusercontent.com/Newspicel/blog/main/pages/wie-ich-eine-datenbank-mit-86640-g%C3%BCltigen-whatsapp-gruppen-einladungslinks-erstellt-habe/image_2.png" width="698" height="350" alt=""></p>
 
 ## Noch ein paar andere Infos:
 
