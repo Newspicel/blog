@@ -42,7 +42,10 @@ Ohne Rate Limit ist natürlich auch das Spamming von ihren Mail Servern möglich
 
 Ich haben diese Fehler gemeldet, haben jedoch auf unsere E-Mails nie Antworten bekommen (bis heute den 3.9.2021 nicht) und auf Instagram wurden ich nach Anfragen blockiert. Danach habe ich mich entschieden auf eine andere Weise zu kommunizieren (Haben es übrigens auch über Unterschiedliche Discord Server probiert.).
 
-<p><img src="https://i.newspicel.dev/data/ZaMHFgGCk8wl3scTHq6knCOegJGhbyzY.png" width="215" height="424" alt=""></p>
+<p><img src="ZaMHFgGCk8wl3scTHq6knCOegJGhbyzY.png" width="215" height="424" alt=""></p>
+
+![alt text](./ZaMHFgGCk8wl3scTHq6knCOegJGhbyzY.png)
+
 
 #### Wie wurden die Fehler nun behoben?
 
