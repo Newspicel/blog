@@ -28,7 +28,7 @@ Hier einmal ein paar Infos zu Leveln:
 
 1.  Man kann innerhalb von Sekunden Level 100 erreichen.
 2.  Man kann innerhalb von Minuten Level 500 erreichen.
-3.  Mein Maximalstand war Level 200, XP ca. 5 Millionen und Coins bei ungefähr 10 Millionen nach einer Nacht.
+3.  Mein Maximalstand war Level 2000, XP ca. 5 Millionen und Coins bei ungefähr 10 Millionen nach einer Nacht.
 
 Ein paar Probleme die ich bei diesen hohen Leveln hatte: Da die App ganz neu war, es gab zu dem Zeitpunkt wo ich angefangen habe ungefähr 100k Beichten. (Jede Beichte kann man nur einmal bewerten.) Diese hatte ich aber innerhalb von einer Stunde abgearbeitet, also geliked. Es mussten also neue Beichten her: So habe ich ein zweites Script geschrieben, welches Beichten schreibt. (Der übrigens Werbung für unsern Discord Server gemacht hat, ich habe deswegen viele witzige Gespräche in der Nacht vom 11 auf den 12 Juli geführt.)
 
