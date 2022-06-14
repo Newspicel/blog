@@ -1,7 +1,7 @@
 # Über Mich
 <!-- type: static -->
 <!-- date: 1970-01-01 01:00:00 -->
-Hallo und Willkommen auf meinem Blog, mein Name ist Julian Haag und ich bin 17 Jahre alt. Seit 2015 treibe ich mich jetzt mit allem rund ums programmieren rum.
+Hallo und Willkommen auf meinem Blog, mein Name ist Julian Haag und ich bin 18 Jahre alt. Seit 2015 treibe ich mich jetzt mit allem rund ums programmieren rum.
 
 Ich beschäftige mit den folgenden Themen und Softwares:
 
